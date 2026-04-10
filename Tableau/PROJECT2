@@ -1,0 +1,17 @@
+✅ Assignment 2: Maps, Joins & First Dashboard (Module 4 & 5)
+Objective:
+ Learn to join datasets and build your first interactive dashboard with geographic visuals.
+Dataset:
+ Use datasets from Module 4 & 5.
+Tasks:
+Join two datasets using an inner or left join in Tableau.
+Create a Map visualization using geographic fields like state or region.
+Build a Scatterplot using two numerical fields.
+Combine map, scatterplot, and another chart into your first dashboard.
+Add Filter Actions and Highlight Actions for interaction.
+
+
+Expected Output:
+1 Map
+1 Scatterplot
+1 complete Dashboard with interactivity
