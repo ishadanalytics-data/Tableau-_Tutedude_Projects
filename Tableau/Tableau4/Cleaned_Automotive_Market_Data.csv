@@ -1,0 +1,11 @@
+Sl No,Country,Car Makers,Yearly Growth (%),Monthly Growth (%),Old Price (Avg),New Price (Avg),Price Difference
+1,USA,Tesla,0.042,0.008,48500.0,47200.0,-1300.0
+2,Japan,Toyota,0.013,0.002,34200.0,34800.0,600.0
+3,China,BYD,0.105,0.014,28400.0,27900.0,-500.0
+4,Germany,Volkswagen,-0.009,-0.003,42100.0,42950.0,850.0
+5,India,Maruti Suzuki,0.053,0.006,12500.0,13100.0,600.0
+6,S. Korea,Hyundai,0.021,0.004,31800.0,32450.0,650.0
+7,Italy,Ferrari,0.035,0.001,285000.0,298000.0,13000.0
+8,USA,Ford,-0.012,-0.005,45600.0,44900.0,-700.0
+9,China,Xiaomi,0.12,0.022,30500.0,29800.0,-700.0
+10,UK,Jaguar LR,0.008,0.001,72300.0,74100.0,1800.0
